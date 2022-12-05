@@ -1,0 +1,2 @@
+# okmtyuta scripts
+自作のシェルスクリプトとMakefile置き場
